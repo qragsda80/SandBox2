@@ -1,3 +1,3 @@
 # SandBox2
 
-![The Box](images/TheBox.jpg)  
+![The Box](images/TheBox.jpg)   
